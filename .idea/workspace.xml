@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="468df44d-10d8-41d1-a907-f5d66f0a73a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_8.py" afterDir="false" />
+    <list default="true" id="468df44d-10d8-41d1-a907-f5d66f0a73a0" name="Changes" comment="One">
+      <change beforePath="$PROJECT_DIR$/ex_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +138,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676109868259</updated>
     </task>
+    <task id="LOCAL-00001" summary="One">
+      <created>1676127565256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676127565256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="One" />
+    <option name="LAST_COMMIT_MESSAGE" value="One" />
   </component>
 </project>
