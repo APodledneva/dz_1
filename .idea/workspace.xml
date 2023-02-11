@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="468df44d-10d8-41d1-a907-f5d66f0a73a0" name="Changes" comment="One">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,9 +124,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ex_4" />
-        <item itemvalue="Python.ex_2" />
         <item itemvalue="Python.ex_8" />
         <item itemvalue="Python.ex_6" />
+        <item itemvalue="Python.ex_2" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676127565256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="One">
+      <created>1676127933408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676127933408</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
