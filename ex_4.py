@@ -9,6 +9,9 @@
 # x+2(x+x)+x=total => x(Мальчики)=S/6
 
 total = int(input("Сколько всего сделали журавликов? "))
-print(f'Петя: {total // 6}')
-print(f'Сережа:{total // 6}')
-print(f'Катя:{(total // 6) * 4}')
+if total % 6 != 0: #иначе не будут целые журавли
+    print('некорректно введеные данные')
+else:
+    print(f'Петя: {total // 6}')
+    print(f'Сережа:{total // 6}')
+    print(f'Катя:{(total // 6) * 4}')
